@@ -3,7 +3,7 @@
     <title>StudioChords</title>
     <link href="https://studiochords.com/feed.xml" rel="self" />
     <link href="https://studiochords.com" />
-    <updated>2022-09-26T02:34:30+05:30</updated>
+    <updated>2022-09-26T03:39:19+05:30</updated>
     <author>
         <name>Rish</name>
     </author>
@@ -29,9 +29,23 @@
         <link href="https://studiochords.com/about/"/>
         <id>https://studiochords.com/about/</id>
 
-        <updated>2022-09-26T02:34:30+05:30</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2022-09-26T03:39:19+05:30</updated>
+            <summary>
+                <![CDATA[
+                    Hello! Welcome to StudioChords. My name is Rish &amp; I'm a guitar &amp; piano teacher. I have taught 100+ students&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Hello! Welcome to StudioChords. My name is Rish &amp; I'm a guitar &amp; piano teacher.</p>
+<figure class="post__image post__image--center"><img  style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal); outline: 3px solid rgba(var(--color-primary-rgb), 0.55)  !important;" src="https://studiochords.com/media/posts/24/Circle-Photo.jpg" alt="" width="540" height="540"></figure>
+<figure class="post__video"><iframe width="560" height="314" src="https://www.youtube.com/embed/VeiHb7vzSNA" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+<p><span style="color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);">I have taught 100+ students so far via online training of guitar &amp; piano.</span></p>
+<p>This website is the best resource if you're looking for accurate chords of some of the most famous songs in Bollywood</p>
+<p>If you want to enroll in personal online music coaching, be sure to contact me below</p>
+<p class="align-center"><a href="https://studiochords.com/online-classes/" class="btn">Contact Me</a></p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Zara Sa Guitar Chords | Jannat | KK | Zara Si Dil Me</title>
