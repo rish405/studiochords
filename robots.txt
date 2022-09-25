@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://rish405.github.io/studiochords/sitemap.xml
