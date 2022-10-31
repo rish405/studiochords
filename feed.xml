@@ -3,7 +3,7 @@
     <title>StudioChords</title>
     <link href="https://studiochords.com/feed.xml" rel="self" />
     <link href="https://studiochords.com" />
-    <updated>2022-11-01T01:07:07+05:30</updated>
+    <updated>2022-11-01T01:14:00+05:30</updated>
     <author>
         <name>Rish</name>
     </author>
@@ -17,7 +17,7 @@
         <link href="https://studiochords.com/video/"/>
         <id>https://studiochords.com/video/</id>
 
-        <updated>2022-11-01T01:07:07+05:30</updated>
+        <updated>2022-11-01T01:14:00+05:30</updated>
             <summary>
                 <![CDATA[
                     This is a test of the story between the videos. This is a test of the story between the videos.
@@ -43,6 +43,11 @@
 <p> </p>
 <!-- padding-top calculation is height / width (assuming 16:9 aspect ratio) -->
 <div style="position: relative; padding-top: 56.25%;"><div class="post__iframe"><iframe loading="lazy" style="border: none; position: absolute; top: 0; height: 100%; width: 100%;" src="https://customer-3w1ppwga7tarul3u.cloudflarestream.com/7dd68b2c217a4025d369ee9911953e66/watch/iframe" allow="accelerometer; gyroscope; autoplay; encrypted-media; picture-in-picture;" allowfullscreen="allowfullscreen"></iframe></div></div>
+<div> </div>
+<div>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/0mwPbV_Gts0" allowfullscreen="allowfullscreen"></iframe></figure>
+<figure class="post__video"><iframe loading="lazy" width="560" height="314" src="https://www.youtube.com/embed/8n2PZihvoIU" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></figure>
+</div>
             ]]>
         </content>
     </entry>
