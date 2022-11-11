@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>StudioChords</title>
     <link href="https://studiochords.com/feed.xml" rel="self" />
     <link href="https://studiochords.com" />
@@ -54,6 +54,7 @@
         </author>
         <link href="https://studiochords.com/perfect-ed-sheeran-guitar-and-piano-chords/"/>
         <id>https://studiochords.com/perfect-ed-sheeran-guitar-and-piano-chords/</id>
+        <media:content url="https://studiochords.com/media/posts/32/a1pDI90NDUU-HQ.jpg" medium="image" />
             <category term="Guitar Chords"/>
 
         <updated>2022-09-26T04:11:45+05:30</updated>
@@ -65,7 +66,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiochords.com/media/posts/32/a1pDI90NDUU-HQ.jpg" alt="" />
+                    <p><img src="https://studiochords.com/media/posts/32/a1pDI90NDUU-HQ.jpg" class="type:primaryImage" alt="" /></p>
                 <pre class="tK8GG Ty_RP"><span class="y68er">[Intro]
 </span><span class="y68er"><span class="fciXY _Oy28" data-name="G#">G#</span>
 </span> 
@@ -126,6 +127,7 @@
         </author>
         <link href="https://studiochords.com/jiyein-kyu-dum-maaro-dum-guitar-and-piano-chords/"/>
         <id>https://studiochords.com/jiyein-kyu-dum-maaro-dum-guitar-and-piano-chords/</id>
+        <media:content url="https://studiochords.com/media/posts/31/sJW37INWnYk-HQ.jpg" medium="image" />
             <category term="Guitar Chords"/>
 
         <updated>2022-09-26T03:52:26+05:30</updated>
@@ -137,7 +139,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiochords.com/media/posts/31/sJW37INWnYk-HQ.jpg" alt="" />
+                    <p><img src="https://studiochords.com/media/posts/31/sJW37INWnYk-HQ.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Jiyein Kyu Dum Maaro Dum Guitar &amp; Piano Chords</strong></p>
 <p>Na  [E] aaye ho, na  [Abm] aaoge <br>Na  [Dbm] phone pe  [Abm] bulaoge <br>Na  [F#m] shaam ki karaari chai <br> [B] labhon se yun pilaoge <br>Na  [E] aaye ho, na  [Abm] aaoge <br>Na  [Dbm] din dhale  [Abm] sataoge <br>Na  [F#m] raat ki nashili bye <br>Se  [B] neendh mein jagaoge <br><br> Gaye  <br>[E] tum gaye ho  [Dbm] kyun <br>Yeh  [Gbm] raat baaki  [B] hai <br>Gaye  [E] tum gaye ho  [Dbm] kyun <br> [F#m] saath baaki  [B] hai <br>Gaye  [F#m] tum gaye hum tham gaye <br>Har  [A] baat baaki hai <br>Gaye  [E] kyun  [F#m]  <br>Toh jiyein  [Abm] kyun  [E]  <br><br> Na  <br>[E] aaye ho, na  [Abm] aaoge <br>Na  [Dbm] dooriyaan  [G#m] dhikhaoge <br>Na  [F#m] thaam ke woh josh mein <br>Yun  [B] hosh se udaoge <br>Na  [E] aaye ho, na  [Abm] aaoge <br>Na  [Dbm] jhoot se  [Abm] sunaoge <br>Na  [F#m] rooth ke sihane mein <br> [B] remote ko chupaoge <br><br> Gaye  <br>[E] tum gaye ho  [Dbm] kyun <br>Yeh  [F#m] raat baaki  [B] hai <br>Gaye  [E] tum gaye ho  [Dbm] kyun <br> [F#m] saath baaki  [B] hai <br>Gaye  [F#m] tum gaye hum tham gaye <br>Har  [A] baat baaki hai <br>Gaye  [E] kyun [F#m]  <br>Toh jiyein  [A] kyun  [E]  [Dbm] Aankh bhi tham gayi na thaki [A]  <br> [Dbm] Raat bhi na bati na kati [B]  <br> [Dbm] Raat bhi  [B] cherhti  [A] maarti <br> [Dbm] Neend bhi lut gayi chin gayi [A]  <br> [Dbm] Raat bhi na sahi na rahi [B]  <br> [Dbm] Raat bhi  [B] laazmi  [A] zaalmi <br><br>  Gaye  <br>[E] tum gaye ho  [A] kyun <br>Yeh  [Dbm] raat baaki  [B] hai <br>Gaye  [E] tum gaye ho  [A] kyun <br> [Dbm] saath baaki  [B] hai <br>Gaye  [F#m] tum gaye hum tham gaye <br>Har  [A] baat baaki hai <br>Gaye  [E] kyun  [F#m]  <br>Toh jiyein  [A] kyun [B]  <br>Gaye  [E] kyun.. [F#m]  <br>Toh jiyein  [A] kyun.. [B]  </p>
             ]]>
@@ -150,6 +152,7 @@
         </author>
         <link href="https://studiochords.com/agar-tum-saath-ho-tamasha-guitar-and-piano-chords/"/>
         <id>https://studiochords.com/agar-tum-saath-ho-tamasha-guitar-and-piano-chords/</id>
+        <media:content url="https://studiochords.com/media/posts/30/sK7riqg2mr4-HQ.jpg" medium="image" />
             <category term="Guitar Chords"/>
 
         <updated>2022-09-26T03:50:58+05:30</updated>
@@ -161,7 +164,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiochords.com/media/posts/30/sK7riqg2mr4-HQ.jpg" alt="" />
+                    <p><img src="https://studiochords.com/media/posts/30/sK7riqg2mr4-HQ.jpg" class="type:primaryImage" alt="" /></p>
                 <p>Agar Tum Saath Ho - Tamasha Guitar &amp; Piano Chords</p>
 <p class="msg msg--highlight ">Capo First Fret</p>
 <p>[D] Pal bhar thahar [A] jaao   <br> [D] Dil ye sambhal [A] jaaye   <br> [D] Kaise tumhe [A] roka ka [G] roon [D] oon   <br> [D] Meri taraf aata   <br> [Bm] har gham fi [D] sal jaaye   <br> [D] Aankho me [A] tum ko bha [G] roon [D] oon      [F#m] Bin bole [D] baate [G] umse ka [G] roon   <br>gar [G] tum saath [D] ho..   <br>Agar [G] tum saath [D] ho..    [D] Behti reh [F#m] ti.. [G] hai   <br> [D] ..Nahar nadi [G] ya si teri duni [A] ya me  <br> [F#m] ..Meri duni [D] ya hai   <br> [G] teri chaaha [Em] ton mein   <br> [A] ..Main dhal jaa [Bm] ti hoon   <br> [G] teri aada [D] ton mein   <br>gar [G] tum saath [D] ho..   [A] Teri nazron mein hai [D] tere sap [A] ne  <br> [G] Tere sapno mein hai [D] naraazi   <br> [A] Mujhe lagta hai ke [D] baate dil [A] ki   <br> [G] Hoti lafzon ki [A] dhoke [D] baazi   <br> [F#7] Tum saath ho ya na ho [G] kya fark [A] hai   <br> [Bm] Bedard thi zindagi [Em] bedard [A] hai     <br><br>  Agar <br>[G] tum saath [D] ho..   <br>Agar [G] tum saath [D] ho..    [D] Palkein jhapak [A] te hi   <br> [D] Din ye nikal [A] jaaye   <br> [D] Bethi bethi [A] bhaagi [G] phiroon [D] oon   <br> [D] Meri taraf aata [Bm] har gham fi [D] sal jaye   <br> [D] Aankhon mein [A] tum ko bha [G] roon [D] oon   <br> [F#m] Bin bole [D] baatein [G] umse ka [G] roon    <br><br>  Agar <br>[G] tum saath [D] ho..   <br>Agar [G] tum saath [D] ho..    [A] Teri nazron mein hai [D] tere sap [A] ne   <br> [G] Tere sapno mein hai [D] naraazi   <br> [A] Mujhe lagta hai ke [D] baatein dil [A] ki   <br> [G] Hoti lafzon ki [A] dhoke [D] baazi   <br> [F#7] Tum saath ho ya na ho [G] kya fark [A] hai   <br> [Bm] Bedard thi zindagi [Em] bedard [A] hai   <br><br>  Agar <br>[G] tum saath [D] ho..   <br> [D] Dil ye sam [Bm] bhal jaaye   <br>Agar [G] tum saath [D] ho..   <br> [D] Har gham fi [Bm] sal jaaye   <br>Agar [G] tum saath [D] ho..   <br> [D] Din ye ni [Bm] kal jaaye   <br>Agar [G] tum saath [D] ho..   <br> [A] Har [D] gham fi [A] sal [D] jaaye     </p>
@@ -175,6 +178,7 @@
         </author>
         <link href="https://studiochords.com/woh-lamhe-aatif-aslam-guitar-and-piano-chords/"/>
         <id>https://studiochords.com/woh-lamhe-aatif-aslam-guitar-and-piano-chords/</id>
+        <media:content url="https://studiochords.com/media/posts/29/KtHRBvNHRyo-HQ.jpg" medium="image" />
             <category term="Guitar Chords"/>
 
         <updated>2022-09-26T03:49:19+05:30</updated>
@@ -186,7 +190,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiochords.com/media/posts/29/KtHRBvNHRyo-HQ.jpg" alt="" />
+                    <p><img src="https://studiochords.com/media/posts/29/KtHRBvNHRyo-HQ.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Woh Lamhe | Aatif Aslam | Guitar &amp; Piano Chords</strong></p>
 <p>Woh  [G#m] Lamhey, Woh baatein, <br>Koi na  [F#] jaane, <br>Thi kaisi  [G#m] raatein, <br>Hooo,  [E] barsaatein, <br>Woh bheegi bheegi  [F#] yaadein, <br>Woh bheegi bheegi  [F#] yaadein  <br><br> Na main  <br>[G#m] jaanu, <br>Na tu  [F#] jaane, aaah <br>Kaisa hai ye  [E] mausam, <br>Koi na  [F#] jaane, <br><br> Kahi se hai fi <br>[G#m] zaa aayi, <br>Ghamon ki dhoop  [F#] sang laayi, <br>Khafaa hoga [E] ye hum, <br>Judaa hoga [F#] ye hum, <br><br> Woh  <br>[G#m] Lamhey, Woh baatein, <br>Koi na  [F#] jaane, <br>Thi kaisi  [G#m] raatein, <br>Hooo,  [E] barsaatein, <br>Woh bheegi bheegi  [F#] yaadein, <br>Woh bheegi bheegi  [F#] yaadein? [G#m] Saagar ki, Gehraayi se, <br>Geh [F#] ra hai, Apna pyaar, <br>Seh [E] raoun ki, In hawaon me, <br>Kaise  [F#] aayeee-gi bahaar, <br><br> Kahan se ye  <br>[G#m] hawa aayi, <br>Ghataayen kaali  [F#] kyoun chhaayi, <br>Khafaa hoga [E] ye hum, <br>Judaa hoga [F#] ye hum, <br><br> Woh  <br>[G#m] Lamhey, Woh baatein, <br>Koi na  [F#] jaane, <br>Thi kaisi  [G#m] raatein, <br>Hooo,  [E] barsaatein, <br>Woh bheegi bheegi  [F#] yaadein, <br>Woh bheegi bheegi  [F#] yaadein  </p>
             ]]>
@@ -199,6 +203,7 @@
         </author>
         <link href="https://studiochords.com/kabira-yeh-jawani-hai-deewani-guitar-and-piano-chords/"/>
         <id>https://studiochords.com/kabira-yeh-jawani-hai-deewani-guitar-and-piano-chords/</id>
+        <media:content url="https://studiochords.com/media/posts/28/jHNNMj5bNQw-HQ.jpg" medium="image" />
 
         <updated>2022-09-26T03:48:12+05:30</updated>
             <summary>
@@ -209,7 +214,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiochords.com/media/posts/28/jHNNMj5bNQw-HQ.jpg" alt="" />
+                    <p><img src="https://studiochords.com/media/posts/28/jHNNMj5bNQw-HQ.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Kabira | Yeh Jawani Hai Deewani | Guitar &amp; Piano Chords</strong></p>
 <p>Kaisi teri  [G] khudgarzi <br>Na  [D] dhoop chuney na  [A] chaanv <br>Kaisi teri  [G] khudgarzi <br>Kisi  [D] thaur tikey na  [A] paanv <br>Kaisi teri  [G] khudgarzi <br>Na  [D] dhoop chuney na  [A] chaanv <br>Kaisi teri  [G] khudgarzi <br>Kisi  [D] thaur tikey na  [A] paanv [Em] Ban liya apna paigambar <br> [G] Tair liya tu saat samandar <br> [Bm] Phir bhi sookha man ke andar <br> [G] Kyun rahega <br><br> Re  <br>[D] kabira maan  [G] ja <br>Re  [D] fakeera maan  [G] ja <br>Aaja  [Em] tujhko pukaarein teri  <br> [A] parchhaiyaan <br>Re  [D] kabira maan  [G] ja <br>Re  [D] fakeera maan  [G] ja <br>Kaisa  [Em] tu hai nirmohi kaisa  <br> [A] hurjaiyaa... [G] ... [D]   [G] ... [D]  [G] Tooti chaarpaai wohi <br> [D] Thandi purvaai rasta  [G] dekhe  [D]  <br> [G] Doodhon ki malaai wohi <br> [D] Mitti ki surahi rasta  [G] dekhe  [D]  <br><br> Kaisi teri  <br>[G] khudgarzi <br>Lub  [D] naam tera mera mishri <br>Kaisi teri  [G] khudgarzi <br>Tujhe  [D] preet purani bisri [Em] Mast maula, mast kalander <br> [G] Tu hawa ka ek bawandar <br> [Bm] Bujh ke yun andar hi andar <br> [G] Kyun rahega <br><br> Re  <br>[D] kabira maan  [G] ja <br>Re  [D] fakeera maan  [G] ja <br>Aaja  [Em] tujhko pukaarein teri  <br> [A] parchhaiyaan <br>Re  [D] kabira maan  [G] ja <br>Re  [D] fakeera maan  [G] ja <br>Kaisa  [Em] tu hai nirmohi kaisa  <br> [A] hurjaiyaa... [G] ... [D]  </p>
             ]]>
@@ -222,6 +227,7 @@
         </author>
         <link href="https://studiochords.com/lag-jaa-gale-guitar-and-piano-chords/"/>
         <id>https://studiochords.com/lag-jaa-gale-guitar-and-piano-chords/</id>
+        <media:content url="https://studiochords.com/media/posts/27/TFr6G5zveS8-HQ.jpg" medium="image" />
             <category term="Guitar Chords"/>
 
         <updated>2022-09-26T03:45:43+05:30</updated>
@@ -233,7 +239,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiochords.com/media/posts/27/TFr6G5zveS8-HQ.jpg" alt="" />
+                    <p><img src="https://studiochords.com/media/posts/27/TFr6G5zveS8-HQ.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Lag Jaa Gale - Guitar &amp; Piano Chords</strong></p>
 <p> [G]                 [Em]                           <br>lag ja gale,ke fir yeh  <br> [G]                  [D]  <br>haseen raat ho na ho <br> [C]                 [D]           <br>shayad fir is janam main, <br> [G]     [Am]      [G]  <br>mulakat ho na ho <br> [G]                   <br>lag ja gale,fir  [G]                [C]          <br>humko mili hain aaj yeh, <br>        [Am]          [G]  <br>ghadiyan naseeb se <br> [G]                [C]            <br>ji bhar ke dekh lijiye,  <br>        [Am]          [G]  <br>humko kareeb se <br> [G]                [Em]          <br>fir aapke naseeb main,  <br> [G]                [D]  <br>yeh baat ho na ho <br> [C]                 [D]           <br>shayad fir is janam main, <br> [G]     [Am]      [G]  <br>mulakat ho na ho <br> [G]                   <br>lag ja gale,fir  [G]                [C]  <br>Paas Aaiye Ki Ham  <br> [Am]               [G]  <br>Nahin Aaenge Baar-Baar <br> [G]                [C]  <br>Baahen Gale Men Daal <br> [Am]                 [G]   <br>Ke Ham Ro Le Zaar-Zaar <br> [G]                [Em]  <br>Aankhon Se Phir Ye Pyaar Ki  <br> [G]                 [D]   <br> Barasaat Ho Na Ho <br> [C]                 [D]           <br>shayad fir is janam main, <br> [G]     [Am]      [G]  <br>mulakat ho na ho <br> [G]                   <br>lag ja gale,fir  </p>
             ]]>
@@ -246,6 +252,7 @@
         </author>
         <link href="https://studiochords.com/tum-hi-ho-aashiqui-2-guitar-and-piano-chords/"/>
         <id>https://studiochords.com/tum-hi-ho-aashiqui-2-guitar-and-piano-chords/</id>
+        <media:content url="https://studiochords.com/media/posts/26/NUo8CKI34o4-HQ.jpg" medium="image" />
             <category term="Guitar Chords"/>
 
         <updated>2022-09-26T03:44:34+05:30</updated>
@@ -257,7 +264,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://studiochords.com/media/posts/26/NUo8CKI34o4-HQ.jpg" alt="" />
+                    <p><img src="https://studiochords.com/media/posts/26/NUo8CKI34o4-HQ.jpg" class="type:primaryImage" alt="" /></p>
                 <p><strong>Guitar &amp; Piano Chords </strong>of Tum Hi Ho - Aashiqui 2</p>
 <p>Song Name - Tum Hi Ho</p>
 <p>Movie - Aashuqui 2</p>
